@@ -1,0 +1,5 @@
+Nesse projeto foi utilizado as ferramentas sugeridas no escopo do projeto como SQL Server, foi desenvolvido um aplicativo Web ASP.NET do tipo MVC.
+
+O arquivo "ComandosCriaçãoBD-SQLQuery1.sql" está todos os comandos utilizados para criação do Bando de Dados.
+
+A pasta "CrudEscola" está todo o projeto desenvolvido no Visual Studio 2022.
